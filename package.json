@@ -1,6 +1,6 @@
 {
   "name": "rn-zoom-voice-call",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "description": "React Native Voice Call",
   "main": "index.js",
   "scripts": {
